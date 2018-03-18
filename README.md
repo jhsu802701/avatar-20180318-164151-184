@@ -1,5 +1,10 @@
 # Temporary Avatar App
 
+[![Build Status](https://travis-ci.org/jhsu802701/avatar-20180318-164151-184.svg?branch=master)](https://travis-ci.org/jhsu802701/avatar-20180318-164151-184)
+[![Dependency Status](https://gemnasium.com/badges/github.com/jhsu802701/avatar-20180318-164151-184.svg)](https://gemnasium.com/github.com/jhsu802701/avatar-20180318-164151-184)
+[![security](https://hakiri.io/github/jhsu802701/avatar-20180318-164151-184/master.svg)](https://hakiri.io/github/jhsu802701/avatar-20180318-164151-184/master)
+[![Maintainability](https://api.codeclimate.com/v1/badges/436f6bfd116ae5c041aa/maintainability)](https://codeclimate.com/github/jhsu802701/avatar-20180318-164151-184/maintainability)
+
 Welcome to Temporary Avatar App!
 
 ## How was this app created?
